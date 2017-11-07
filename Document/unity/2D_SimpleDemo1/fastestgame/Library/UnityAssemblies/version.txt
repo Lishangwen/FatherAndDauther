@@ -1,0 +1,14 @@
+5.6.1p1:2.3.0.0
+StandaloneWindows
+C:/UnityNewVsersion/WindowsResult/Data/Managed/UnityEngine.dll
+C:/UnityNewVsersion/WindowsResult/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+C:/UnityNewVsersion/WindowsResult/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+C:/UnityNewVsersion/WindowsResult/Data/UnityExtensions/Unity/PerformanceTesting/UnityEngine.PerformanceTesting.dll
+C:/UnityNewVsersion/WindowsResult/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+C:/UnityNewVsersion/WindowsResult/Data/UnityExtensions/Unity/TestRunner/nunit.framework.dll
+C:/UnityNewVsersion/WindowsResult/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+C:/UnityNewVsersion/WindowsResult/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+C:/UnityNewVsersion/WindowsResult/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+C:/UnityNewVsersion/WindowsResult/Data/Managed/UnityEditor.dll
+C:/UnityNewVsersion/WindowsResult/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll
+C:/UnityNewVsersion/WindowsResult/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll
